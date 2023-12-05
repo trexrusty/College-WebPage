@@ -3,3 +3,4 @@ function darkmode() { //function darkmode in code
    element.classList.toggle("dark-mode"); // changes the website css 
 }
 
+//hhehehe
